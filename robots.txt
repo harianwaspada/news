@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://harianwaspada.github.io/news/sitemap.xml
